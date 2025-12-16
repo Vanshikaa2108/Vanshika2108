@@ -72,16 +72,5 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
 </p>
 
----
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en" alt="github stats" />
-</p>
-
----
 
 ⭐ *Feel free to explore my repositories and connect with me!*
