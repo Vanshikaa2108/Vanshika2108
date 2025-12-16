@@ -6,14 +6,6 @@
 </p>
 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark" alt="github trophies" />
-  </a>
-</p>
-
----
-
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Engineering student at **Parul University** (Expected 2026)  
