@@ -5,9 +5,6 @@
   📍 Ghaziabad, Uttar Pradesh, India
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
