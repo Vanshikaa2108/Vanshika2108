@@ -1,65 +1,67 @@
 <h1 align="center">Hi 👋, I'm Vanshika Panwar</h1>
-<h3 align="center">Computer Engineering Undergraduate | Full Stack Developer | Data Analytics Enthusiast</h3>
-
-<p align="center">
-  📍 Ghaziabad, Uttar Pradesh, India
-</p>
-
-
-### 👩‍💻 About Me
-
-- 🎓 B.Tech Computer Engineering student at **Parul University** (Expected 2026)  
-- 💻 Interested in **Software Development, Cloud Computing & Data Analytics**  
-- 🧠 Strong foundation in **Full Stack Development & Computer Networks**  
-- 🏆 Hackathon participant & certified in **Data Analytics and Networking**  
+<h3 align="center">Final-year CSE Student | MERN Developer | Data Analyst | AI & ML Enthusiast</h3>
 
 ---
 
-### 📂 Projects
+## 🧑‍💻 About Me
+- 🎓 Final-year **Computer Science Engineering** student at Parul University  
+- 💡 MERN Stack developer with hands-on project experience  
+- 📊 Data Analyst fresher skilled in **Python, Excel, Power BI, Tableau**  
+- 🤖 Passionate about **AI-powered solutions**, machine learning & dashboards  
+- 📫 Reach me at: **vanshikapanwar683@gmail.com**
 
-- 🔬 **Diagnostic Laboratory (AI-integrated MERN Platform)**  
-  AI-based medical report analysis with ML-powered health insights  
 
-- 🚖 **DriveX – Smart Fare Calculation App**  
-  Prevents cab-fare scams using real-time route tracking & fair pricing  
+## 🛠️ Technical Skills
+
+### **Programming Languages**
+`C` `Java` `Python` `HTML` `CSS`
+
+### **Technologies**
+`Flask` `Django` `Scikit-learn` `Pandas` `NumPy` `Power BI` `Tableau`
+
+### **Machine Learning**
+`Supervised & Unsupervised Learning` `Neural Networks` `NLP`
+
+### **CS Fundamentals**
+`OOPs` `DBMS` `Computer Networks` `Operating Systems`
+
+### **Coursework**
+`DSA` `Design & Analysis of Algorithms` `DADV`
+
+
+
+## 🎓 Education
+- **Bachelor of Computer Science & Engineering**  
+  Parul University (2022–2026)
+
+- **PCMB (12th)**  
+  Bhagirath Public School, Ghaziabad (2020–2022)
 
 ---
 
-### 📫 How to Reach Me
-
-- 📧 Email: **vp747402@gmail.com**
-- 🔗 LinkedIn:  
-  <a href="https://www.linkedin.com/in/vanshika-p-8295558285" target="_blank">
-    linkedin.com/in/vanshika-p-8295558285
-  </a>
+## 🏅 Certifications
+- PU Code Hackathon 2.0  
+- Computer Networks & Internet Protocol – **IIT Kharagpur**  
+- Deloitte - Data Analytics Job Simulation   
 
 ---
 
-<h3 align="left">Connect with Me:</h3>
+## 🚀 Activities
+- Tableau Workshop  
+- Projection – Tech Event at Parul University  
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/vanshika-p-8295558285" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/hitesh-pawar-0b5032247" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://github.com/Vanshikaa2108" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
-</p>
-
-
-⭐ *Feel free to explore my repositories and connect with me!*
+### ✨ *Thanks for visiting my profile! Feel free to explore my projects.* 
