@@ -54,7 +54,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/hitesh-pawar-0b5032247" target="_blank">
+<a href="https://www.linkedin.com/in/vanshikapanwar683" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="https://github.com/Vanshikaa2108" target="_blank">
